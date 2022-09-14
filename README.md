@@ -32,9 +32,7 @@ Eclipse, Vscode, Java, Selenium, Maven, Jnuit, Appium, Android Studio
 - Conectar o appium ao emulador;
 <img width="645" alt="Captura de Tela 2022-09-14 às 02 15 10" src="https://user-images.githubusercontent.com/31110433/190065276-ed2bce07-d2f8-4d8e-903c-4d64a25eacde.png">
 <img width="639" alt="Captura de Tela 2022-09-14 às 02 15 54" src="https://user-images.githubusercontent.com/31110433/190065378-a93fcaf1-ecee-4d7d-a98f-9d676c3e86cb.png">
-- Rodar o junit para realizar o teste:
-
-Exemplo com Eclipse:
+- Rodar o junit para realizar o teste (Exemplo com Eclipse):
 ![Captura de Tela 2022-09-14 às 02 20 27](https://user-images.githubusercontent.com/31110433/190065930-356b8096-a837-4360-854b-c50821f07dd5.png)
 
 

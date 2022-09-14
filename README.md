@@ -14,8 +14,15 @@ Dado o protótipo concebido pelo time de Service Design, o aplicativo deve consu
 - Suba os arquivos para um drive, copie e cole o link no campo de resposta do e-mail enviado.
 
 
-🛠 Ferramentas:
+⌨️ Testes Manuais:
+Na pasta testes manuais vão ser encontrados o plano de teste, roteiro, execução e bugs encontrados.
 
+⌨️ Testes Automatico:
+Na pasta testes manuais vai ser encontrado o projeto.
+
+💻 Sobre o Projeto:
+
+🛠 Ferramentas:
 Eclipse, Vscode, Java, Selenium, Maven, Jnuit, Appium, Android Studio
 
 
@@ -33,13 +40,4 @@ Eclipse, Vscode, Java, Selenium, Maven, Jnuit, Appium, Android Studio
 <img width="645" alt="Captura de Tela 2022-09-14 às 02 15 10" src="https://user-images.githubusercontent.com/31110433/190065276-ed2bce07-d2f8-4d8e-903c-4d64a25eacde.png">
 <img width="639" alt="Captura de Tela 2022-09-14 às 02 15 54" src="https://user-images.githubusercontent.com/31110433/190065378-a93fcaf1-ecee-4d7d-a98f-9d676c3e86cb.png">
 - Rodar o junit para realizar o teste (Exemplo com Eclipse):
-![Captura de Tela 2022-09-14 às 02 20 27](https://user-images.githubusercontent.com/31110433/190065930-356b8096-a837-4360-854b-c50821f07dd5.png)
-
-
-
-⌨️ Testes Manuais:
-Na pasta testes manuais vão ser encontrados o plano de teste, roteiro, execução e bugs encontrados.
-
-
-
-
+![Captura de Tela 2022-09-14 às 02 35 42](https://user-images.githubusercontent.com/31110433/190068125-bda77872-4c29-43ec-86c3-233f5e04302e.png)

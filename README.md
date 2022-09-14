@@ -35,8 +35,10 @@ Eclipse, Vscode, Java, Selenium, Maven, Jnuit, Appium, Android Studio
 - Rodar o junit para realizar o teste (Exemplo com Eclipse):
 ![Captura de Tela 2022-09-14 às 02 20 27](https://user-images.githubusercontent.com/31110433/190065930-356b8096-a837-4360-854b-c50821f07dd5.png)
 
+
+
 ⌨️ Testes Manuais:
-- Na pasta testes manuais vão ser encontrados o plano de teste, roteiro, execução e bugs encontrados.
+Na pasta testes manuais vão ser encontrados o plano de teste, roteiro, execução e bugs encontrados.
 
 
 
